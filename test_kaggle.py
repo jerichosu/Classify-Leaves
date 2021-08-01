@@ -17,7 +17,7 @@ import torchvision.models as models
 from sklearn.model_selection import train_test_split
 from tqdm import tqdm
 
-
+# make some changes
 
 training_data = pd.read_csv (r'train.csv')
 testing_data = pd.read_csv (r'test.csv')
