@@ -20,6 +20,8 @@ import torch.nn as nn
 import torch.optim as optim
 from tqdm import tqdm
 
+# test for git again
+
 
 training_data = pd.read_csv (r'train.csv')
 testing_data = pd.read_csv (r'test.csv')
